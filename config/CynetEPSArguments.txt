@@ -1,0 +1,1 @@
+slb.cynet.com -port 443 -lightagent -cs -msi -tknv 1 -tkn aec31eca-ce16-472e-9636-02e8ee4f2755 -group Worthy_LINUX -nosp
